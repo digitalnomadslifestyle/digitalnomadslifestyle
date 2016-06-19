@@ -5,6 +5,9 @@ body {
 .hero {
   width: 100%;
 }
+a {
+  color: #c00d1f;
+}
 .wrapper {
   width: 700px;
   margin: 0px auto;
@@ -140,6 +143,9 @@ body {
   .form {
     width: 95%;
     font-size: 14px;
+  }
+  .input {
+    width: 98%;
   }
 
 }
